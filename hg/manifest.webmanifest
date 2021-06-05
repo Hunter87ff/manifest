@@ -1,7 +1,7 @@
 {
   "background_color": "black",
   "description": "Free fire all problem solution, hg official",
-  "display": "fullscreen",
+  "scope": "/",
   "icons": [
     {
       "src": "https://hunter87ff.github.io/amp/Images/favicon.png",
