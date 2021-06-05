@@ -1,5 +1,5 @@
 {
-  "background_color": "purple",
+  "background_color": "black",
   "description": "Shows random fox pictures. Hey, at least it isn't cats.",
   "display": "fullscreen",
   "icons": [
@@ -9,7 +9,7 @@
       "type": "image/png"
     }
   ],
-  "name": "Awesome fox pictures",
-  "short_name": "Foxes",
+  "name": "HG OFFICIAL",
+  "short_name": "HG OFFICIAL",
   "start_url": "https://huntergaming87.blogspot.com/index.html"
 }
