@@ -1,7 +1,7 @@
 {
     "theme_color": "#000",
     "background_color": "#4a90e2",
-    "display": "minimal-ui",
+    "display": "standalone",
     "scope": "/",
     "start_url": "/index.html",
     "name": "HG OFFICIAL",
