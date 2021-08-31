@@ -1,18 +1,16 @@
 {
-    "theme_color": "#000",
-    "background_color": "#000",
-    "display": "standalone",
-    "scope": "https://huntergaming87.blogspot.com",
-    "start_url": "https://huntergaming87.blogspot.com",
-    "name": "HG OFFICIAL",
-    "short_name": "HG OFFICIAL",
-    "description": "HG OFFICIAL Everything You Need",
-    "icons": [
-        {
-            "src": "favicon-96x96.png",
-            "sizes": "92x92",
-            "type": "image/png"
-        }
-	
-    ]
+  "background_color": "#000",
+   "theme_color": "#000",
+  "description": "HG OFFICIAL. Everything You Need",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "HG OFFICIAL",
+  "short_name": "HG OFFICIAL",
+  "start_url": "https://huntergaming87.blogspot.com"
 }
