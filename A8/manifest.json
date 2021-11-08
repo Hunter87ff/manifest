@@ -1,1 +1,16 @@
-
+{
+  "background_color": "#000",
+   "theme_color": "#000",
+  "description": "Play tournaments, scrims, weekly scrims, win prize and also experience",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "A8 ESPORTS",
+  "short_name": "A8 ESPORTS",
+  "start_url": "https://a8esports.blogspot.com"
+}
